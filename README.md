@@ -1,4 +1,4 @@
-redmine_default_issues_images
+redmine_plugins_cdn
 =============================
 
-do not use this repo, it's images storage for redmine_default_issues plugin
+do not use this repo, it's images storage for efigence redmine plugins readme
